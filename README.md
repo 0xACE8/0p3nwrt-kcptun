@@ -1,5 +1,6 @@
 ## kcptun
   Version 20240107 update!
+  kcptun-client only.
 
   kcptun project is forked from the [https://github.com/immortalwrt/packages/tree/master/net/kcptun](https://github.com/immortalwrt/packages/tree/master/net/kcptun)
 
